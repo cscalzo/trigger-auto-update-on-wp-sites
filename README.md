@@ -1,7 +1,7 @@
 # Trigger Wordpress Auto Update
 
 #### Audience
-The audience for this script is Mac users. But if you find that there are parts of this script that you can use or modify, you are welcome to do so.
+This script is made for Mac users. But if you find that there are parts of this script that you can use or modify, you are welcome to do so.
 
 #### Why was this built
 There are many Wordpress sites that I manage for my company, twenty-five plus, these are low traffic pages. Since the auto update only triggers on page visits, some of these websites can get far behind on their updates. Wanting to make sure that every site stays current one would have to visit the twenty-five plus pages to trigger the auto update. It can be a bit of a waste of time to visit each site manually, so why not write a script that I could trigger to do it for me? And thus this quick little thing was written.
